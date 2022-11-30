@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alirezaazimian
 - 👀 I’m interested in datascience, python, linux, AI, machin learning
-- 🌱 I’m currently learning machin learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, git, machin learning, deep learning
+- 💞️ I’m looking to collaborate on data analyzor and cloud computing team
 - 📫 How to reach me ...
 
 <!---
