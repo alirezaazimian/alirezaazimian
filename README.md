@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lirezaazimian
-- 👀 I’m interested in python, linux and Devops tools
+- 👀 I’m interested in python, linux and MLops tools
 - 🌱 I’m currently learning python, git, bash
 - 📫 You can find me in Linkeedin and Facebook ...
 
